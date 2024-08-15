@@ -11,4 +11,5 @@ Bu kichik dastur bo'lib unda :
 * Natija ekranda chop etiladi.
   
 Albatta, aytishingiz mumkin, sonlarni int toifasida qabul qilgan yaxshi edi deb. Menimcha uncha farqi bo'lmasa ham kerak :)
+
 [Telegram](https://t.me/WXLZIa)
