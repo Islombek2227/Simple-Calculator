@@ -9,4 +9,6 @@ Bu kichik dastur bo'lib unda :
 * So'ngra 2 - son qabul qilinadi.
 * Keyin esa 2 ta son int toifasiga convertatsiya qilinadi.
 * Natija ekranda chop etiladi.
+  
 Albatta, aytishingiz mumkin, sonlarni int toifasida qabul qilgan yaxshi edi deb. Menimcha uncha farqi bo'lmasa ham kerak :)
+[Telegram](https://t.me/WXLZIa)
