@@ -1,5 +1,6 @@
 # Simple-Calculator
 This project is for learning C#
+
 Men bu sohaga yaqinda kirib keldim. Shuning uchun xatolar bo'lsa avvaldan uzr so'rayman.
 Bu kichik dastur bo'lib unda : 
 * Foydalanuvchidan bir son string ko'rinishida qabul qilinadi.
